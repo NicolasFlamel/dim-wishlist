@@ -1,0 +1,8 @@
+title:Want
+description:List of guns and stuff that I thought were cool and want later
+
+// Chroma Rush - Bondagelock Weapon (pve)
+//notes: Weapon needed to Bondagelock loadout. https://www.youtube.com/watch?v=zN34ispI2cE tags:pve
+dimwishlist:item=771811871&perks=2289534249,3891536761
+
+
